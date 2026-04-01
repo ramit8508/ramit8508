@@ -1,22 +1,36 @@
-# Hey, I'm Ramit Goyal 👋
+<h1 align="center">Hey, I'm Ramit Goyal 👋</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ramit8508&label=Profile%20views&color=0e75b6&style=flat" alt="ramit8508" />
+<p align="center">
+  <b>CSE (AI/ML) Student • Full-Stack Builder • React Three Fiber Enthusiast</b>
 </p>
 
-### CSE (AI/ML) Student • Full-Stack Builder • React Three Fiber Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramit8508&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="ramit8508" />
+  <img src="https://img.shields.io/github/followers/ramit8508?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ramit8508?style=for-the-badge&logo=github&label=Total%20Stars" alt="stars" />
+</p>
+
+<p align="center">
+  <a href="https://www.ramitgoyal.tech/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ramit-goyal-71b89431a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ramitgoyal1987@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ About Me
 
 I build practical products at the intersection of **AI/ML** and **immersive web experiences**.  
-Currently focused on shipping production-style projects with clean architecture, real-time features, and strong UX.
+My goal is to ship real, production-style projects with clean architecture, real-time features, and strong UX.
 
 ---
 
 ## 🚀 Current Focus
 
-- Building and scaling **MERN** applications with better performance and developer experience
-- Exploring **AI-powered healthcare and education solutions**
-- Improving consistency through regular commits, versioned experiments, and project iterations
-- Growing depth in **TypeScript** and **3D web experiences (React Three Fiber)**
+- ⚙️ Scaling **MERN** applications with better performance and maintainability
+- 🤖 Building **AI-powered healthcare and education** workflows
+- 📈 Maintaining consistent commits through versioned project iterations
+- 🧩 Deepening expertise in **TypeScript** and **React Three Fiber**
 
 ---
 
@@ -34,7 +48,7 @@ Currently focused on shipping production-style projects with clean architecture,
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Backend & Database
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,22 +62,34 @@ Currently focused on shipping production-style projects with clean architecture,
 
 ---
 
-## 🏆 Featured Work
+## 🏆 Featured Projects
 
-### 🏥 [RemedyEase_New](https://github.com/ramit8508/RemedyEase_New)
-Healthcare platform with live calls, live chat, and modern patient-care workflows.
-
-### 🤖 [PhysioCare-AI](https://github.com/ramit8508/PhysioCare-AI)
-Recent AI-focused healthcare project reflecting active development and commit consistency.
-
-### 🎯 [MYPATH](https://github.com/ramit8508/MYPATH)
-Learning and exam guidance platform designed to help students follow structured growth paths.
-
-### 📚 [Zenix-Suite](https://github.com/ramit8508/Zenix-Suite)
-Academic productivity ecosystem with scheduling and study workflow components.
-
-### 🛠️ [Teacher-managment-system](https://github.com/ramit8508/Teacher-managment-system)
-School management system with CRUD flows and admin-oriented operations.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏥 RemedyEase_New</h3>
+      <p>Healthcare platform with live calls, live chat, and patient-care workflows.</p>
+      <a href="https://github.com/ramit8508/RemedyEase_New">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>🤖 PhysioCare-AI</h3>
+      <p>AI-focused healthcare project with active development and frequent commits.</p>
+      <a href="https://github.com/ramit8508/PhysioCare-AI">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎯 MYPATH</h3>
+      <p>Learning and exam guidance platform for structured student growth.</p>
+      <a href="https://github.com/ramit8508/MYPATH">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>📚 Zenix-Suite</h3>
+      <p>Academic productivity ecosystem with scheduler and workflow tools.</p>
+      <a href="https://github.com/ramit8508/Zenix-Suite">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,19 +110,11 @@ School management system with CRUD flows and admin-oriented operations.
 
 ---
 
-## 🌐 Connect With Me
+## 📌 Profile Snapshot
 
-- Portfolio: [ramitgoyal.tech](https://www.ramitgoyal.tech/)
-- LinkedIn: [ramit-goyal-71b89431a](https://www.linkedin.com/in/ramit-goyal-71b89431a/)
-- Email: [ramitgoyal1987@gmail.com](mailto:ramitgoyal1987@gmail.com)
-
----
-
-## 📌 Profile Summary
-
-- 👨‍💻 30+ public repositories with continuous experimentation
-- 📅 Consistent contribution activity across personal and academic projects
-- 🧪 Active in AI/ML, web systems, and student productivity tooling
+- 👨‍💻 30+ public repositories and continuous experimentation
+- 📅 Consistent contribution activity across personal + academic work
+- 🧪 Building in AI/ML, web systems, and student productivity space
 
 <p align="center">
   <b>"Build fast, improve daily, and ship meaningful products."</b>
