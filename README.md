@@ -1,100 +1,103 @@
-# Hi there, I'm Ramit Goyal 👋
+# Hey, I'm Ramit Goyal 👋
 
-I'm a passionate developer who builds web and software projects that solve real-world problems. I enjoy working across the full stack and creating applications that make a difference. Check out my projects below!
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ramit8508&label=Profile%20views&color=0e75b6&style=flat" alt="ramit8508" />
+</p>
 
-## 💻 Skills
+### CSE (AI/ML) Student • Full-Stack Builder • React Three Fiber Enthusiast
 
-**Languages:**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🏥 RemedyEase
-A comprehensive healthcare management platform designed to streamline patient care and medical workflows.
-
-**Key Features:**
-- Patient record management with secure authentication
-- Appointment scheduling and tracking system
-- Medical history and prescription management
-- Analytics dashboard for healthcare insights
-- Real-time notifications for appointments
-- Video consultation using WebRTC
-- Real-time chat with Socket.io
-- Email notifications via Nodemailer
-- Media management with Cloudinary
-- AI-powered features using Groq API
-
-**Tech Stack:** HTML, CSS, React, Node.js, Express, MongoDB, Groq API, Nodemailer, Cloudinary, WebRTC, Socket.io
-
-📂 **Repository:** [github.com/ramit8508/RemedyEase_New](https://github.com/ramit8508/RemedyEase_New)  
-🌐 **Live Demo:** [remedy-ease-new.vercel.app](https://remedy-ease-new.vercel.app/)
+I build practical products at the intersection of **AI/ML** and **immersive web experiences**.  
+Currently focused on shipping production-style projects with clean architecture, real-time features, and strong UX.
 
 ---
 
-### 🎯 MyPath
-A personalized learning and career path planner that helps users set goals, track progress, and achieve their objectives.
+## 🚀 Current Focus
 
-**Key Features:**
-- Customizable learning roadmaps and milestones
-- Progress tracking with visual analytics
-- Smart recommendations based on user goals
-- Resource library for skill development
-- Achievement badges and progress gamification
-
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
-
-📂 **Repository:** [github.com/ramit8508/MYPATH](https://github.com/ramit8508/MYPATH)  
-🌐 **Live Demo:** [mypath-nine.vercel.app](https://mypath-nine.vercel.app/)
+- Building and scaling **MERN** applications with better performance and developer experience
+- Exploring **AI-powered healthcare and education solutions**
+- Improving consistency through regular commits, versioned experiments, and project iterations
+- Growing depth in **TypeScript** and **3D web experiences (React Three Fiber)**
 
 ---
 
-### 👨‍🏫 Teacher Management System
-A robust school management system for efficiently managing teachers, classes, schedules, and administrative tasks.
+## 🧠 Tech Stack
 
-**Key Features:**
-- Teacher CRUD operations with role-based access
-- Class and subject assignment management
-- Attendance tracking and reporting
-- Schedule management and timetable generation
-- Payroll and leave management modules
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+### Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Work
 
-![Ramit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramit8508&show_icons=true&theme=radical)
+### 🏥 [RemedyEase_New](https://github.com/ramit8508/RemedyEase_New)
+Healthcare platform with live calls, live chat, and modern patient-care workflows.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramit8508&layout=compact&theme=radical)
+### 🤖 [PhysioCare-AI](https://github.com/ramit8508/PhysioCare-AI)
+Recent AI-focused healthcare project reflecting active development and commit consistency.
 
-## 📫 How to Reach Me
+### 🎯 [MYPATH](https://github.com/ramit8508/MYPATH)
+Learning and exam guidance platform designed to help students follow structured growth paths.
 
-- 📧 Email: ramitgoyal1987@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ramit-goyal-71b89431a](https://www.linkedin.com/in/ramit-goyal-71b89431a/)
-- 🌐 Portfolio: https://www.ramitgoyal.tech/
+### 📚 [Zenix-Suite](https://github.com/ramit8508/Zenix-Suite)
+Academic productivity ecosystem with scheduling and study workflow components.
+
+### 🛠️ [Teacher-managment-system](https://github.com/ramit8508/Teacher-managment-system)
+School management system with CRUD flows and admin-oriented operations.
 
 ---
 
-⭐️ From [ramit8508](https://github.com/ramit8508)
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramit8508&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramit8508&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramit8508&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramit8508&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: [ramitgoyal.tech](https://www.ramitgoyal.tech/)
+- LinkedIn: [ramit-goyal-71b89431a](https://www.linkedin.com/in/ramit-goyal-71b89431a/)
+- Email: [ramitgoyal1987@gmail.com](mailto:ramitgoyal1987@gmail.com)
+
+---
+
+## 📌 Profile Summary
+
+- 👨‍💻 30+ public repositories with continuous experimentation
+- 📅 Consistent contribution activity across personal and academic projects
+- 🧪 Active in AI/ML, web systems, and student productivity tooling
+
+<p align="center">
+  <b>"Build fast, improve daily, and ship meaningful products."</b>
+</p>
