@@ -1,121 +1,204 @@
-<h1 align="center">Hey, I'm Ramit Goyal 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>CSE (AI/ML) Student • Full-Stack Builder • React Three Fiber Enthusiast</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=Ramit%20Goyal&fontSize=55&fontColor=7c3aed&fontAlignY=38&desc=CSE%20(AI%2FML)%20Student%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20React%20Three%20Fiber%20Enthusiast&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramit8508&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="ramit8508" />
-  <img src="https://img.shields.io/github/followers/ramit8508?style=for-the-badge&logo=github&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ramit8508?style=for-the-badge&logo=github&label=Total%20Stars" alt="stars" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.ramitgoyal.tech/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ramit-goyal-71b89431a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ramitgoyal1987@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://www.ramitgoyal.tech/">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ramit-goyal-71b89431a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ramit8508">
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="mailto:ramitgoyal1987@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-## ✨ About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Healthcare+Apps;MERN+Stack+%7C+React+Three+Fiber+%7C+TypeScript;Real-Time+Chat+%2B+Live+Call+Systems;30%2B+Public+Repositories;Shipping+Real%2C+Production-Style+Projects" alt="Typing SVG"/>
 
-I build practical products at the intersection of **AI/ML** and **immersive web experiences**.  
-My goal is to ship real, production-style projects with clean architecture, real-time features, and strong UX.
-
----
-
-## 🚀 Current Focus
-
-- ⚙️ Scaling **MERN** applications with better performance and maintainability
-- 🤖 Building **AI-powered healthcare and education** workflows
-- 📈 Maintaining consistent commits through versioned project iterations
-- 🧩 Deepening expertise in **TypeScript** and **React Three Fiber**
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ About Me
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+```javascript
+const ramit = {
+  role:       "Full Stack Developer (MERN) + React Three Fiber Enthusiast",
+  focus:      "AI/ML, healthcare workflows, and immersive web experiences",
+  stack:      ["React", "TypeScript", "Node.js", "Express", "MongoDB", "MySQL"],
+  interests:  ["React Three Fiber", "Real-time systems", "AI-powered education tools"],
+  repos:      "30+ public repositories with consistent contribution activity",
+  motto:      "Build fast, improve daily, and ship meaningful products."
+};
+```
 
-### Frontend & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,typescript,javascript,html,css,react,threejs,nodejs,express,mongodb,mysql,git,github,vscode,docker&perline=8&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+</div>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🏥 RemedyEase_New</h3>
-      <p>Healthcare platform with live calls, live chat, and patient-care workflows.</p>
-      <a href="https://github.com/ramit8508/RemedyEase_New">🔗 View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🤖 PhysioCare-AI</h3>
-      <p>AI-focused healthcare project with active development and frequent commits.</p>
-      <a href="https://github.com/ramit8508/PhysioCare-AI">🔗 View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 MYPATH</h3>
-      <p>Learning and exam guidance platform for structured student growth.</p>
-      <a href="https://github.com/ramit8508/MYPATH">🔗 View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>📚 Zenix-Suite</h3>
-      <p>Academic productivity ecosystem with scheduler and workflow tools.</p>
-      <a href="https://github.com/ramit8508/Zenix-Suite">🔗 View Repository</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 RemedyEase_New
+> **Healthcare platform with live calls & real-time chat**
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/RemedyEase_New)
+
+- 📞 Live calling for patient-provider consultations
+- 💬 Real-time chat for care coordination
+- 🏗️ Full patient-care workflow architecture
+
+`React` `Node.js` `Express` `MongoDB` `WebRTC/Socket`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 PhysioCare-AI
+> **AI-focused healthcare project**
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/PhysioCare-AI)
+
+- 🧠 AI-driven physiotherapy support workflows
+- 🔄 Active development with frequent commits
+- 📊 Structured patient/data handling
+
+`React` `Node.js` `MongoDB` `AI/ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 MYPATH
+> **Learning & exam guidance platform**
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/MYPATH)
+
+- 📚 Structured student growth pathways
+- 🗺️ Personalised exam guidance flows
+
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Zenix-Suite
+> **Academic productivity ecosystem**
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/Zenix-Suite)
+
+- 🗓️ Scheduler + workflow tools for students
+- 🧩 Modular productivity ecosystem design
+
+`React` `TypeScript` `Node.js`
+
+</td>
+</tr>
 </table>
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramit8508&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramit8508&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramit8508&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramit8508&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
-## 📌 Profile Snapshot
+## 📊 GitHub Stats
 
-- 👨‍💻 30+ public repositories and continuous experimentation
-- 📅 Consistent contribution activity across personal + academic work
-- 🧪 Building in AI/ML, web systems, and student productivity space
+<div align="center">
 
-<p align="center">
-  <b>"Build fast, improve daily, and ship meaningful products."</b>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ramit8508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramit8508&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&text_color=ffffff&bg_color=0d1117" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ramit8508&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="60%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramit8508/ramit8508/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramit8508/ramit8508/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ramit8508/ramit8508/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+> ℹ️ This snake animation requires a GitHub Action set up on your `ramit8508/ramit8508` profile repo to generate the SVG. If you don't have it yet, let me know and I can walk you through the setup.
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramit8508&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎖️ Profile Snapshot
+
+| | |
+|---|---|
+| 💻 **Repositories** | 30+ public repositories with continuous experimentation |
+| 📅 **Activity** | Consistent contribution activity across personal + academic work |
+| 🏥 **Domain Focus** | AI/ML, healthcare platforms, and web systems |
+| 🎮 **Specialty** | React Three Fiber — immersive, real-time web experiences |
+| 🧩 **Current Focus** | Scaling MERN apps, deepening TypeScript expertise |
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Build+fast%2C+improve+daily%2C+ship+meaningful+products." alt="Footer Typing"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramit8508&color=7c3aed&style=flat-square&label=Profile+Views)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=120&section=footer&fontColor=7c3aed" width="100%"/>
+
+</div>
