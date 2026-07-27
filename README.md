@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=Ramit%20Goyal&fontSize=55&fontColor=7c3aed&fontAlignY=38&desc=CSE%20(AI%2FML)%20Student%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20React%20Three%20Fiber%20Enthusiast&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=Ramit%20Goyal&fontSize=48&fontColor=7c3aed&fontAlignY=32&desc=Software%20Developer%20%C2%B7%20Pursuing%20Cloud%20Computing%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20React%20Three%20Fiber%20Enthusiast&descAlignY=54&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Healthcare+Apps;MERN+Stack+%7C+React+Three+Fiber+%7C+TypeScript;Real-Time+Chat+%2B+Live+Call+Systems;30%2B+Public+Repositories;Shipping+Real%2C+Production-Style+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Software+Developer+Pursuing+Cloud+Computing;Building+AI-Powered+Healthcare+Apps;MERN+Stack+%7C+React+Three+Fiber+%7C+TypeScript;Real-Time+Chat+%2B+Live+Call+Systems;180%2B+DSA+Questions+Solved;30%2B+Public+Repositories" alt="Typing SVG"/>
 
 </div>
 
@@ -29,10 +29,12 @@
 
 ```javascript
 const ramit = {
-  role:       "Full Stack Developer (MERN) + React Three Fiber Enthusiast",
-  focus:      "AI/ML, healthcare workflows, and immersive web experiences",
+  role:       "Software Developer — Pursuing Cloud Computing",
+  also:       "Full Stack Developer (MERN) + React Three Fiber Enthusiast",
+  focus:      "AI/ML, healthcare workflows, cloud computing, and immersive web experiences",
   stack:      ["React", "TypeScript", "Node.js", "Express", "MongoDB", "MySQL"],
   interests:  ["React Three Fiber", "Real-time systems", "AI-powered education tools"],
+  dsa:        "180+ DSA questions solved",
   repos:      "30+ public repositories with consistent contribution activity",
   motto:      "Build fast, improve daily, and ship meaningful products."
 };
@@ -183,6 +185,8 @@ const ramit = {
 |---|---|
 | 💻 **Repositories** | 30+ public repositories with continuous experimentation |
 | 📅 **Activity** | Consistent contribution activity across personal + academic work |
+| ☁️ **Learning Path** | Pursuing Cloud Computing alongside software development |
+| 🧮 **DSA** | 180+ DSA questions solved |
 | 🏥 **Domain Focus** | AI/ML, healthcare platforms, and web systems |
 | 🎮 **Specialty** | React Three Fiber — immersive, real-time web experiences |
 | 🧩 **Current Focus** | Scaling MERN apps, deepening TypeScript expertise |
