@@ -69,38 +69,34 @@ const ramit = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
-</div>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏥 RemedyEase_New
-> **Healthcare platform with live calls & real-time chat**
-
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/RemedyEase_New)
+**Healthcare platform with live calls & real-time chat**
 
 - 📞 Live calling for patient-provider consultations
 - 💬 Real-time chat for care coordination
 - 🏗️ Full patient-care workflow architecture
 
-`React` `Node.js` `Express` `MongoDB` `WebRTC/Socket`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+[![Source](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/RemedyEase_New)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 PhysioCare-AI
-> **AI-focused healthcare project**
-
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/PhysioCare-AI)
+**AI-focused healthcare project**
 
 - 🧠 AI-driven physiotherapy support workflows
 - 🔄 Active development with frequent commits
 - 📊 Structured patient/data handling
 
-`React` `Node.js` `MongoDB` `AI/ML`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-7c3aed?style=flat-square"/>
+
+[![Source](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/PhysioCare-AI)
 
 </td>
 </tr>
@@ -108,33 +104,31 @@ const ramit = {
 <td width="50%" valign="top">
 
 ### 🎯 MYPATH
-> **Learning & exam guidance platform**
-
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/MYPATH)
+**Learning & exam guidance platform**
 
 - 📚 Structured student growth pathways
 - 🗺️ Personalised exam guidance flows
 
-`React` `Node.js` `MongoDB`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+[![Source](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/MYPATH)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 Zenix-Suite
-> **Academic productivity ecosystem**
-
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/Zenix-Suite)
+**Academic productivity ecosystem**
 
 - 🗓️ Scheduler + workflow tools for students
 - 🧩 Modular productivity ecosystem design
 
-`React` `TypeScript` `Node.js`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+[![Source](https://img.shields.io/badge/View%20Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramit8508/Zenix-Suite)
 
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
@@ -153,19 +147,13 @@ const ramit = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramit8508/ramit8508/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramit8508/ramit8508/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ramit8508/ramit8508/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img src="https://ghchart.rshah.org/7c3aed/ramit8508" alt="Ramit's GitHub contribution graph" width="95%"/>
 
 </div>
-
-> ℹ️ This snake animation requires a GitHub Action set up on your `ramit8508/ramit8508` profile repo to generate the SVG. If you don't have it yet, let me know and I can walk you through the setup.
 
 ---
 
