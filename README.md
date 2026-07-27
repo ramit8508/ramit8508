@@ -147,16 +147,6 @@ const ramit = {
 
 ---
 
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7c3aed/ramit8508" alt="Ramit's GitHub contribution graph" width="95%"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
