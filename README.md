@@ -16,6 +16,9 @@
 <a href="mailto:ramitgoyal1987@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/Ramitgoyal1207/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <br/><br/>
 
@@ -166,6 +169,16 @@ const ramit = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramit8508&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Ramitgoyal1207?theme=dark&font=Karma&ext=heatmap"/>
 
 </div>
 
